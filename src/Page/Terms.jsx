@@ -1,5 +1,5 @@
 import React from "react";
-import Pagebanner from "../components/PageBanner";
+import PageBanner from "../components/PageBanner";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
@@ -8,7 +8,7 @@ const Terms = () => {
   return (
     <div>
       <div className="terms-b">
-        <Pagebanner
+        <PageBanner
           title="Terms and conditions"
           breadcrumb="Home /Terms and conditions "
           image="https://th.bing.com/th/id/OIG2.H0hOqIhv__DM3XiMP0Df?pid=ImgGn"

@@ -1,28 +1,25 @@
-
-import React from 'react'
-import Pagebanner from '../components/PageBanner'
-import OurStory from '../components/about/OurStory'
-import OurValue from '../components/about/OurValue'
-import WhyChoseUs from '../components/about/WhyChoseUs (1)'
-import MeetOurTeam from '../components/about/MeetOurTeam'
+import React from "react";
+import PageBanner from "../components/PageBanner";
+import OurStory from "../components/about/OurStory";
+import OurValue from "../components/about/OurValue";
+import WhyChoseUs from "../components/about/WhyChoseUs (1)";
+import MeetOurTeam from "../components/about/MeetOurTeam";
 
 const About = () => {
   return (
     <div className="grid-reveal-banner">
-  <Pagebanner
-    title="About us" 
-    breadcrumb="Home / About us" 
-    image="images/Chef%2011.jpg" 
-  />
-
-
+      <PageBanner
+        title="About us"
+        breadcrumb="Home / About us"
+        image="images/Chef%2011.jpg"
+      />
 
       <OurStory />
       <OurValue />
       <WhyChoseUs />
       <MeetOurTeam />
     </div>
-  )
-}
+  );
+};
 
-export default About
+export default About;

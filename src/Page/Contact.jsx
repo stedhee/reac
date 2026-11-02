@@ -1,5 +1,5 @@
 import React from "react";
-import Pagebanner from "../components/PageBanner";
+import PageBanner from "../components/PageBanner";
 import Accordion from "react-bootstrap/Accordion";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
@@ -9,7 +9,7 @@ const Contact = () => {
   return (
     <section>
       <div className="contact">
-        <Pagebanner
+        <PageBanner
           title="contact us "
           breadcrumb="Home / frequently asked questions"
           image="https://th.bing.com/th/id/OIP.XAbHOqSs4coG4jF9QHX8zgHaFj?w=474&h=355&c=7&rs=1&qlt=90&r=0&dpr=1.1&pid=CanonicalCanvas"
