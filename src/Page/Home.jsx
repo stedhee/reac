@@ -1,6 +1,6 @@
 import React from 'react'
 import Hero from '../components/home/Hero'
-import Popularf from '../components/home/Popularf'
+import Popularf from '../components/Home/Popularf'
 
 
 const Home = () => {
@@ -13,4 +13,5 @@ const Home = () => {
 }
 
 export default Home
+
 
