@@ -1,15 +1,16 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./Page/Home";
 import About from "./Page/About";
-import Navbarmenu from "./components/navbar";
+
 import Menu from "./Page/Menu";
 import Contact from "./Page/Contact";
 import Footer from "./components/footer";
-import Terms from "./Page/terms";
+import Terms from "./Page/Terms";
 import Services from "./Page/Services";
 import Fooddetails from "./Page/Fooddetails";
 import Cart from "./Page/Cart";
 import Checkout from "./Page/Checkout";
+import Navbarmenu from "./components/Navbar";
 
 function App() {
   return (
