@@ -4,7 +4,7 @@ import About from "./Page/About";
 
 import Menu from "./Page/Menu";
 import Contact from "./Page/Contact";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 import Terms from "./Page/Terms";
 import Services from "./Page/Services";
 import Fooddetails from "./Page/Fooddetails";
