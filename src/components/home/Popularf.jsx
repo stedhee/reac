@@ -5,7 +5,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import foods from "../../Data/food"
-import FoodCard from '../foodcard'
+import FoodCard from '../FoodCard'
 
 export default function Popularf() {
 

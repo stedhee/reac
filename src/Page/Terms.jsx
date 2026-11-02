@@ -1,5 +1,5 @@
 import React from "react";
-import Pagebanner from "../components/Pagebanner";
+import Pagebanner from "../components/PageBanner";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";

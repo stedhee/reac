@@ -1,5 +1,5 @@
 import React from "react";
-import Pagebanner from "../components/Pagebanner";
+import Pagebanner from "../components/PageBanner";
 import Accordion from "react-bootstrap/Accordion";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
@@ -12,7 +12,6 @@ const Contact = () => {
         <Pagebanner
           title="contact us "
           breadcrumb="Home / frequently asked questions"
-          
           image="https://th.bing.com/th/id/OIP.XAbHOqSs4coG4jF9QHX8zgHaFj?w=474&h=355&c=7&rs=1&qlt=90&r=0&dpr=1.1&pid=CanonicalCanvas"
         />
       </div>
@@ -106,12 +105,9 @@ const Contact = () => {
               and current order volume. Any estimated time provided should be
               treated as a guide rather than a guarantee.
             </p>
-
-          
           </Col>
 
           <Col>
-
             <h5>11. How much does delivery cost?</h5>
 
             <p>
@@ -119,16 +115,13 @@ const Contact = () => {
               applicable fee should be shown before you confirm your order.
             </p>
 
-            <h5>
-              12. What happens if I am unavailable when my order arrives?
-            </h5>
+            <h5>12. What happens if I am unavailable when my order arrives?</h5>
 
             <p>
               our delivery personnel may attempt to contact you using the
               details provided. If delivery cannot be completed, we will discuss
               the available options in line with our delivery policy.
             </p>
-
 
             <h4>Cancellations and Refunds</h4>
             <h5> 13. Can I cancel an order? </h5>
