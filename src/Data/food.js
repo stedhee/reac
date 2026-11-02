@@ -4,7 +4,7 @@ const foods = [
     name: "Jollof Rice",
     price: 4500,
     category: "Rice",
-    image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b",
+    image: "https://tse4.mm.bing.net/th/id/OIP.xzYY_JuT2IOoD8_0C_7n-QHaHa?r=0&pid=ImgDet&w=200&h=200&c=7&dpr=1.1&o=7&rm=3" ,
     description: "Delicious Nigerian party jollof rice served with tasty chicken."
   },
   {
@@ -12,7 +12,7 @@ const foods = [
     name: "Fried Rice",
     price: 5000,
     category: "Rice",
-    image: "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+    image: "https://tse3.mm.bing.net/th/id/OIP.il46yDwAwo_StwQBTHHfgAAAAA?r=0&pid=ImgDet&w=200&h=200&c=7&dpr=1.1&o=7&rm=3",
     description: "Flavorful fried rice prepared with fresh vegetables and spices."
   },
   {
@@ -20,7 +20,7 @@ const foods = [
     name: "Grilled Chicken",
     price: 3000,
     category: "Chicken",
-    image: "https://images.unsplash.com/photo-1532550907401-a500c9a57435",
+    image: "https://tse3.mm.bing.net/th/id/OIP.nsHlooSNp2_D9E6IwGzrqQHaHa?r=0&pid=ImgDet&w=200&h=200&c=7&dpr=1.1&o=7&rm=3",
     description: "Juicy grilled chicken seasoned with our special house spices."
   },
   {
@@ -28,7 +28,7 @@ const foods = [
     name: "Beef Burger",
     price: 6500,
     category: "Burger",
-    image: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+    image: "https://tse1.mm.bing.net/th/id/OIP.4xcYKVqBBowIvgSFmnNJAQHaFU?r=0&pid=ImgDet&w=200&h=143&c=7&dpr=1.1&o=7&rm=3",
     description: "A delicious beef burger with fresh vegetables and special sauce."
   },
   {
@@ -36,7 +36,7 @@ const foods = [
     name: "Chicken Burger",
     price: 6000,
     category: "Burger",
-    image: "https://images.unsplash.com/photo-1606755962773-d324e0a13086",
+    image: "https://www.bing.com/th/id/OIP.VO0NzpWNQuR20dLk84EuCwHaHa?w=193&h=193&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=ImgAns&rm=2",
     description: "Crispy chicken burger served with fresh lettuce and sauce."
   },
   {
@@ -44,15 +44,15 @@ const foods = [
     name: "Shawarma",
     price: 4500,
     category: "Fast Food",
-    image: "https://images.unsplash.com/photo-1529006557810-274b9b2fc783",
+    image: "https://th.bing.com/th/id/OIP.8vmK_3M1alh8IJsjbynOoQHaHa?w=173&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3",
     description: "Loaded chicken shawarma with vegetables and creamy sauce."
   },
   {
     id: 7,
-    name: "Pepperoni Pizza",
+    name: "halal Pizza",
     price: 8500,
     category: "Pizza",
-    image: "https://unsplash.com",
+    image: "https://tse1.mm.bing.net/th/id/OIP.816unFPfKmkthNhIZFxZIQHaE8?r=0&pid=ImgDet&w=200&h=133&c=7&dpr=1.1&o=7&rm=3",
     description: "Classic pizza topped with rich tomato sauce, melted mozzarella, and spicy pepperoni."
   },
   {
@@ -60,7 +60,7 @@ const foods = [
     name: "Club Sandwich",
     price: 4000,
     category: "Sandwich",
-    image: "https://unsplash.com",
+    image: "https://tse3.mm.bing.net/th/id/OIP.XNPWS5EEPuvQjg2pwD_lIAHaE8?r=0&pid=ImgDet&w=200&h=133&c=7&dpr=1.1&o=7&rm=3",
     description: "Triple-decker sandwich with toasted bread, grilled chicken, egg, lettuce, and mayo."
   },
   {
@@ -68,7 +68,7 @@ const foods = [
     name: "Meat Pie",
     price: 1500,
     category: "Snacks",
-    image: "https://unsplash.com",
+    image: "https://img.freepik.com/premium-photo/meat-pie-isolated-white-background_1095373-2292.jpg",
     description: "Flaky pastry crust stuffed with a savory, perfectly seasoned minced beef and vegetable filling."
   },
   {
@@ -76,7 +76,7 @@ const foods = [
     name: "Glazed Donuts",
     price: 2000,
     category: "Snacks",
-    image: "https://unsplash.com",
+    image: "https://thumbs.dreamstime.com/b/large-glazed-donut-white-background-chocolate-powder-sprinkled-donut-creates-visually-striking-image-its-light-287578151.jpg?w=576",
     description: "Soft, fluffy yeast-risen donuts covered in a sweet, classic sugar glaze."
   },
   {
@@ -84,7 +84,7 @@ const foods = [
     name: "French Fries",
     price: 2500,
     category: "Sides",
-    image: "https://unsplash.com",
+    image: "https://img.freepik.com/premium-photo/french-fries-white-background_269543-544.jpg",
     description: "Golden, crispy potato fries lightly salted and served with ketchup."
   },
   {
@@ -92,7 +92,7 @@ const foods = [
     name: "Chocolate Milkshake",
     price: 3500,
     category: "Drinks",
-    image: "https://unsplash.com",
+    image: "https://tse1.mm.bing.net/th/id/OIP.6szsiIMSJy0pJbDTJXxbjwHaHa?r=0&pid=ImgDet&w=200&h=200&c=7&dpr=1.1&o=7&rm=3",
     description: "Rich and creamy milkshake blended with premium chocolate ice cream and topped with whipped cream."
   }
 ];
